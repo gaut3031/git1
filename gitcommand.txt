@@ -1,0 +1,13 @@
+Command of git
+
+-git clone githubUrl (copy the url from the github repository and paste it in termial)
+
+-git init(to innitialise the empty .git folder)
+
+-git status{to check the status of file and folder}
+
+-git add filename (to add files and folder)
+
+-git commit -m "messege"
+
+-git push origin branchNAme

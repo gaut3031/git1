@@ -1,0 +1,7 @@
+ GIT & GITHUB
+
+>> Git is tool Which allows you to version control
+ 
+CVCS >> Central version control system # Do not save locally
+DVCS >> Distributed version control system # Saved Locally
+
